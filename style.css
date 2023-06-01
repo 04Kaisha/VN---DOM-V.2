@@ -1,11 +1,4 @@
 /* fonts */
-@font-face {
-  font-family: "ablationblack";
-  src: url("/fonts/ablation_black-webfont.woff2") format("woff2"),
-  url("/fonts/ablation_black-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
 
 /* global styles */
 
@@ -76,7 +69,7 @@ body {
 }
 
 .page1_logo {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 32px;
@@ -98,7 +91,7 @@ body {
 }
 
 .page1_nav-child a {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 16px;
@@ -114,7 +107,7 @@ body {
 /* button contact */
 
 .page1_contact-us {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 16px;
@@ -129,7 +122,7 @@ body {
 }
 
 .page1_contact-us:hover {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 16px;
@@ -167,7 +160,7 @@ body {
   background-size: contain;
   background-position: left top -1px;
   padding-left: 30px;
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 24px;
@@ -181,12 +174,13 @@ body {
   background: url(/img/page1/house-h1-768-1000px.svg);
   background-repeat: no-repeat;
   background-position: right 4px top;
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 83px;
   line-height: 100%;
   margin: 0;
+  max-width: 655px;
 }
 .page1_backblur-xl {
   position: absolute;
@@ -272,7 +266,7 @@ body {
 }
 
 .page2_about-h2 {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 64px;
@@ -287,7 +281,7 @@ body {
 }
 
 .page2_about-p {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 21px;
@@ -320,7 +314,7 @@ body {
   gap: 8px;
 }
 .page3_h1 {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 64px;
@@ -333,7 +327,7 @@ body {
 }
 
 .page3_p {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 21px;
@@ -357,7 +351,7 @@ body {
 }
 
 .page3_child {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 33px;
@@ -445,7 +439,7 @@ body {
 }
 
 .page4_h1 {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 64px;
@@ -531,7 +525,7 @@ body {
 }
 
 .page5_contacts-h2 {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 64px;
@@ -551,11 +545,11 @@ body {
   background: url(/img/page5/bgcontacts.png);
   background-position: center;
   background-repeat: no-repeat;
-  background-size:30%;
+  background-size: 30%;
 }
 
 .page5_contacts-child {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 31px;
@@ -585,7 +579,7 @@ body {
   row-gap: 10px;
 }
 .footer_copywrite {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 24px;
@@ -600,7 +594,7 @@ body {
 }
 
 .madebyme {
-  font-family: "Ablation";
+  font-family: AcherusGrotesqueRegular;
   font-style: normal;
   font-weight: 900;
   font-size: 24px;
